@@ -41,13 +41,8 @@ Building intelligent systems with LLMs
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=r-jelly&theme=tokyonight&hide_border=true"/>
-</p>
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=r-jelly&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=r-jelly&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=r-jelly&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=r-jelly&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
