@@ -45,13 +45,6 @@ Building intelligent systems with LLMs
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=r-jelly&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
----
-
-## 💻 Projects
-
-| 프로젝트 | 기간 | 비고 |
-|:---|:---|:---|
-
 
 ---
 
