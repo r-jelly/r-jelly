@@ -19,16 +19,11 @@ I like rebuilding models from scratch to understand *why* each architecture exis
 
 ---
 
-## 📄 Publications
+## 📄 Publications & Awards
 
 - **Dataset Generation for Korean Urban Parks Analysis with Large Language Models**<br>
 Honggu Kim\*, **Minwoo Kang**\*, Hyeyoung Choi, Yun Gyung Cheong (*CIKM 2024*)<br>
 <sub>\* equal contribution</sub>
-
----
-
-## 🏆 Awards
-
 - (2026.04) 🥇 **1st Place (Main Track)**, Google Tunix Hack: *Train a model to show its work*
 
 ---
