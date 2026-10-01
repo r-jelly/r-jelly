@@ -1,11 +1,5 @@
 # Hi, I'm Minwoo Kang 👋
 
-AI Researcher at **Simplatform**, working on LLMs and GenAI.<br>
-I like rebuilding models from scratch to understand *why* each architecture exists.
-
-🔬 LLM, GenAI, AI Research  
-🌏 Seoul, Republic of Korea
-
 ---
 
 ## 🧭 Experience & Education
