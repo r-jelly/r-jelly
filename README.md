@@ -3,35 +3,34 @@
 AI Researcher at **Simplatform**, working on LLMs and GenAI.<br>
 I like rebuilding models from scratch to understand *why* each architecture exists.
 
-🔬 LLM · GenAI · AI Research  
+🔬 LLM, GenAI, AI Research  
 🌏 Seoul, Republic of Korea
 
 ---
 
 ## 🧭 Experience & Education
 
-| Period | Role | Organization |
-|---|---|---|
-| 2026.09 – present | AI Researcher<br><sub>Technical Research Personnel</sub> | **Simplatform** |
-| 2026.05 – 2026.08 | AI Engineer | **Neurocore** |
-| 2025.09 – 2026.02 | NLP Track | **Boostcamp AI Tech 8th** |
-| 2023.08 – 2024.02 | Visiting Student | **Carnegie Mellon University** |
-| 2023.03 – 2026.02 | M.S. in Artificial Intelligence | **Sungkyunkwan University** |
-| 2018.03 – 2023.02 | B.S. in Computer Science and Engineering | **Sungkyunkwan University** |
+- **2026.09 – present** AI Researcher @ **Simplatform**, _Technical Research Personnel_
+- **2026.05 – 2026.08** AI Engineer @ **Neurocore**
+- **2025.09 – 2026.02** NLP Track @ **Boostcamp AI Tech 8th**
+- **2023.08 – 2024.02** Visiting Student @ **Carnegie Mellon University**
+- **2023.03 – 2026.02** M.S. in Artificial Intelligence @ **Sungkyunkwan University**
+- **2018.03 – 2023.02** B.S. in Computer Science and Engineering @ **Sungkyunkwan University**
 
 ---
 
 ## 📄 Publications
 
 **Dataset Generation for Korean Urban Parks Analysis with Large Language Models**<br>
-Honggu Kim\*, **Minwoo Kang**\*, Hyeyoung Choi, Yun Gyung Cheong · *CIKM 2024*<br>
+Honggu Kim\*, **Minwoo Kang**\*, Hyeyoung Choi, Yun Gyung Cheong<br>
+*CIKM 2024*<br>
 <sub>\* equal contribution</sub>
 
 ---
 
 ## 🏆 Awards
 
-🥇 **1st Place (Main Track)** · Google Tunix Hack — *Train a model to show its work* · 2026.04
+🥇 **1st Place (Main Track)**, Google Tunix Hack: *Train a model to show its work* (2026.04)
 
 ---
 
