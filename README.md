@@ -15,10 +15,10 @@
 
 ## 📄 Publications & Awards
 
-- **Dataset Generation for Korean Urban Parks Analysis with Large Language Models**<br>
-Honggu Kim\*, **Minwoo Kang**\*, Hyeyoung Choi, Yun Gyung Cheong (*CIKM 2024*)<br>
-<sub>\* equal contribution</sub>
-- (2026.04) 🥇 **1st Place (Main Track)**, Google Tunix Hack: *Train a model to show its work*
+- (2024.10) 📝 **Dataset Generation for Korean Urban Parks Analysis with Large Language Models** @ **CIKM 2024**<br>
+  <sub>Honggu Kim\*, **Minwoo Kang**\*, Hyeyoung Choi, Yun Gyung Cheong (\* equal contribution)</sub>
+- (2026.04) 🥇 **1st Place (Main Track)** @ **Google Tunix Hack**<br>
+  <sub>Train a model to show its work</sub>
 
 ---
 
